@@ -7,6 +7,6 @@ marked-terminal-vs-msee
 
 ![marked-terminal](marked-terminal-output.png)
 
-## `ThibWeb/msee`
+## `thibaudcolas/msee`
 
-![ThibWeb/msee](thibweb-msee-output.png)
+![thibaudcolas/msee](thibaudcolas-msee-output.png)
